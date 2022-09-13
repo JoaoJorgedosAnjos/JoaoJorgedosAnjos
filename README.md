@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/JoaoJorgedosAnjos">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoJorgedosAnjos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoJorgedosAnjos&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoJorgedosAnjos&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
